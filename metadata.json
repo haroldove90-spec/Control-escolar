@@ -1,0 +1,6 @@
+{
+  "name": "Control Escolar",
+  "description": "Dashboard de control escolar con perfiles sincronizados para Administradores y Estudiantes, gestión de colegiaturas, registro de alumnos y notificaciones en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
